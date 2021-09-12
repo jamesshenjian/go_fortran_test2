@@ -1,4 +1,4 @@
-package go_fortran_test
+package go_fortran_test2
 
 // based on https://stackoverflow.com/a/53360659/1292467
 
